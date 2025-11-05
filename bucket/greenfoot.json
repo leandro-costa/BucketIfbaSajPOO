@@ -4,5 +4,6 @@
   "bin": ["Greenfoot/Greenfoot.exe"],
   "shortcuts": [["Greenfoot/Greenfoot.exe", "Greenfoot"]],
   "description": "Ambiente interativo para ensino de programação orientada a objetos.",
+  "license": "",
   "homepage": "https://www.greenfoot.org/"
 }

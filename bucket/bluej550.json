@@ -6,5 +6,6 @@
     "bin":  "BlueJ/BlueJ.exe",
     "shortcuts": [["BlueJ/BlueJ.exe", "BlueJ"]],
     "description": "Ambiente de desenvolvimento Java para iniciantes.",
+    "license": "",
     "homepage": "https://www.bluej.org/"
 }
