@@ -6,7 +6,7 @@
     "url":  "https://www.pointofix.de/download/pointofix180de-20180511-direkt.zip",
     "extract_dir":  "",
     "post_install": [
-        "curl -o $dir\\pointofix-translation-20220120.zip https://www.pointofix.de/download/pointofix-translation-20220120.zip", 
+        "curl -o $dir\\pointofix-translation-20220120.zip https://www.pointofix.de/download/pointofix-translation-20220120.zip",
         "cd $dir",
         "7z x '-i!pointofix_translation_en.ini' pointofix-translation-20220120.zip -y",
         "Remove-Item -Path $dir\\pointofix-translation-20220120.zip -Recurse -ErrorAction Ignore",
@@ -15,5 +15,3 @@
     "bin":  "Pointofix.exe",
     "depends": ["curl","7zip"]
 }
-
-
