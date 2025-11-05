@@ -1,0 +1,8 @@
+{
+  "version": "3.9.0",
+  "url": "https://www.greenfoot.org/download/files/Greenfoot-windows-390.msi",
+  "bin": ["Greenfoot/Greenfoot.exe"],
+  "shortcuts": [["Greenfoot/Greenfoot.exe", "Greenfoot"]],
+  "description": "Ambiente interativo para ensino de programação orientada a objetos.",
+  "homepage": "https://www.greenfoot.org/"
+}
